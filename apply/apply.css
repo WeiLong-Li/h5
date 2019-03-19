@@ -28,7 +28,7 @@ p {
 .apply {
   margin-top: 0.4rem;
   font-size: 0.17333333rem;
-  color: #6E6E6E;
+  color: red;
 }
 .p3 {
   font-size: 0.17333333rem;
@@ -63,12 +63,12 @@ p {
 }
 .p10 {
   margin-top: 0.93333333rem;
-  padding-left: 4rem;
+ margin-left: 4rem;
   font-size: 0.17333333rem;
 }
 .p11 {
   margin-top: 0.53333333rem;
-  padding-left: 4rem;
+ margin-left: 4rem;
   font-size: 0.17333333rem;
 }
 .p12 {
@@ -84,7 +84,7 @@ p {
 }
 .p12 {
   margin-top: 0.53333333rem;
-  padding-left: 4rem;
+ margin-left: 4rem;
 }
 .p12 span {
   width: 100px;
