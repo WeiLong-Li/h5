@@ -16,28 +16,28 @@ body {
 }
 p {
   display: inline-block;
-  
+  font-size: 0.53333333rem;
 }
 .h1 {
   font-size: 0.66666667rem;
   text-align: center;
   color: #000000;
-  font-weight: 500;
-  margin-top: 1rem;
+  font-weight: 900;
+  margin-top: 0.26666667rem;
 }
 .apply {
   margin-top: 0.4rem;
- 
-  color:black;
+  font-size: 0.17333333rem;
+  color: #6E6E6E;
 }
 .p3 {
-  
+  font-size: 0.17333333rem;
 }
 .p4 {
-  
+  font-size: 0.17333333rem;
 }
 .p6 {
-  
+  font-size: 0.17333333rem;
 }
 .money {
   width: 1.6rem;
@@ -63,11 +63,11 @@ p {
 }
 .p10 {
  
- 
+  font-size: 0.17333333rem;
 }
 .p11 {
   
- 
+  font-size: 0.17333333rem;
 }
 .p12 {
   font-size: 0.17333333rem;
@@ -82,7 +82,7 @@ p {
 }
 .p12 {
   margin-top: 0.53333333rem;
- margin-left: 4rem;
+  margin-left: 4rem;
 }
 .p12 span {
   width: 100px;
