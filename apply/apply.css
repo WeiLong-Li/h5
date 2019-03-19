@@ -33,20 +33,24 @@ p {
 }
 .p1{
    font-size: 15px;
+   letter-spacing: 1px;
 }
 .p3 {
   font-size: 15px;
+  letter-spacing: 1px;
 }
 .p4 {
    font-size: 15px;
+   letter-spacing: 1px;
 }
 .p6 {
    font-size: 15px;
+   letter-spacing: 1px;
 }
 .money {
   width: 1.6rem;
   height: 0.46666667rem;
-  font-size: 0.4rem;
+  font-size: 40px;
   border-bottom: 0.01333333rem solid black;
   text-align: center;
   line-height: 0.26666667rem;
@@ -55,7 +59,7 @@ p {
 .month {
   width: 0.66666667rem;
   height: 0.46666667rem;
-  font-size: 0.4rem;
+  font-size: 40px;
   border-bottom: 0.01333333rem solid black;
   text-align: center;
   line-height: 0.26666667rem;
@@ -64,7 +68,7 @@ p {
 .name {
   width: 2rem;
   height: 0.46666667rem;
-  font-size: 0.4rem;
+  font-size: 40px;
   border-bottom: 0.01333333rem solid black;
   display: inline-block;
   line-height: 0.26666667rem;
@@ -75,9 +79,11 @@ p {
 }
 .p11 {
   font-size: 0.4rem;
+  margin-top:20px;
 }
 .p12 {
   font-size: 0.4rem;
+  margin-top:20px;
 }
 .telephone {
   width: 3.73333333rem;
@@ -89,8 +95,8 @@ p {
 }
 .foote {
   color: #666;
-  width: 60%;
-  padding-left: 30%;
+  width: 55%;
+  padding-left: 35%;
   margin-top: 0.66666667rem;
 }
 .p12 span {
