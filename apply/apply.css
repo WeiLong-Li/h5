@@ -1,0 +1,82 @@
+@charset "UTF-8";
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'FangSong';
+  line-height: 0.8rem;
+}
+html {
+  width: 100%;
+  height: 100%;
+  background: #fff;
+}
+body {
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  font-size: 0.26666667rem;
+}
+p {
+  display: inline-block;
+  font-size: 0.53333333rem;
+}
+.h1 {
+  font-size: 0.66666667rem;
+  text-align: center;
+  color: #000000;
+  font-weight: 900;
+  margin-top: 0.26666667rem;
+}
+.apply {
+  margin-top: 0.4rem;
+}
+.money {
+  width: 1.6rem;
+  height: 0.46666667rem;
+  border-bottom: 0.01333333rem solid black;
+  text-align: center;
+  line-height: 0.26666667rem;
+}
+.month {
+  width: 0.66666667rem;
+  height: 0.46666667rem;
+  border-bottom: 0.01333333rem solid black;
+  text-align: center;
+  line-height: 0.26666667rem;
+}
+.name {
+  width: 2rem;
+  height: 0.46666667rem;
+  border-bottom: 0.01333333rem solid black;
+  display: inline-block;
+  text-align: center;
+  line-height: 0.26666667rem;
+}
+.p10 {
+  margin-top: 0.93333333rem;
+  padding-left: 3.2rem;
+}
+.p11 {
+  margin-top: 0.53333333rem;
+  padding-left: 3.2rem;
+}
+.telephone {
+  width: 3.73333333rem;
+  height: 0.53333333rem;
+  line-height: 0.26666667rem;
+}
+.seal {
+  line-height: 0.26666667rem;
+}
+.p12 {
+  margin-top: 0.53333333rem;
+  padding-left: 3.2rem;
+}
+.p12 span {
+  width: 100px;
+  display: inline-block;
+  height: 30px;
+  line-height: 0.26666667rem;
+  font-size: 0.4rem;
+  text-align: center;
+}
