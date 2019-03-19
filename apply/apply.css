@@ -26,9 +26,10 @@ p {
   margin-top: 0.26666667rem;
 }
 .apply {
+  width: 100%;
   margin-top: 0.4rem;
   font-size: 0.17333333rem;
-  color: #6E6E6E;
+  color: #666;
 }
 .p3 {
   font-size: 0.17333333rem;
@@ -62,15 +63,13 @@ p {
   line-height: 0.26666667rem;
 }
 .p10 {
- 
-  font-size: 0.17333333rem;
+  font-size: 0.4rem;
 }
 .p11 {
-  
-  font-size: 0.17333333rem;
+  font-size: 0.4rem;
 }
 .p12 {
-  font-size: 0.17333333rem;
+  font-size: 0.4rem;
 }
 .telephone {
   width: 3.73333333rem;
@@ -80,9 +79,11 @@ p {
 .seal {
   line-height: 0.26666667rem;
 }
-.p12 {
-  margin-top: 0.53333333rem;
-  margin-left: 4rem;
+.foote {
+  color: #666;
+  width: 60%;
+  padding-left: 30%;
+  margin-top: 0.66666667rem;
 }
 .p12 span {
   width: 100px;
