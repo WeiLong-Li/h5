@@ -43,24 +43,29 @@ p {
 .money {
   width: 1.6rem;
   height: 0.46666667rem;
+  font-size: 0.4rem;
   border-bottom: 0.01333333rem solid black;
   text-align: center;
   line-height: 0.26666667rem;
+  display: inline-block;
 }
 .month {
   width: 0.66666667rem;
   height: 0.46666667rem;
+  font-size: 0.4rem;
   border-bottom: 0.01333333rem solid black;
   text-align: center;
   line-height: 0.26666667rem;
+  display: inline-block;
 }
 .name {
   width: 2rem;
   height: 0.46666667rem;
+  font-size: 0.4rem;
   border-bottom: 0.01333333rem solid black;
   display: inline-block;
-  text-align: center;
   line-height: 0.26666667rem;
+  text-align: center;
 }
 .p10 {
   font-size: 0.4rem;
